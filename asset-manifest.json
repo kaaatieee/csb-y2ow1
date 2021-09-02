@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kaaatieee.github.io/csb-y2ow1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kaaatieee.github.io/csb-y2ow1/static/js/main.46b064b9.chunk.js",
+    "main.js.map": "https://kaaatieee.github.io/csb-y2ow1/static/js/main.46b064b9.chunk.js.map",
+    "runtime-main.js": "https://kaaatieee.github.io/csb-y2ow1/static/js/runtime-main.7534aef1.js",
+    "runtime-main.js.map": "https://kaaatieee.github.io/csb-y2ow1/static/js/runtime-main.7534aef1.js.map",
+    "static/js/2.544691dc.chunk.js": "https://kaaatieee.github.io/csb-y2ow1/static/js/2.544691dc.chunk.js",
+    "static/js/2.544691dc.chunk.js.map": "https://kaaatieee.github.io/csb-y2ow1/static/js/2.544691dc.chunk.js.map",
+    "index.html": "https://kaaatieee.github.io/csb-y2ow1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kaaatieee.github.io/csb-y2ow1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.544691dc.chunk.js.LICENSE.txt": "https://kaaatieee.github.io/csb-y2ow1/static/js/2.544691dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7534aef1.js",
+    "static/js/2.544691dc.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.46b064b9.chunk.js"
+  ]
+}
